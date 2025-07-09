@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **Computer Science student** at FAST NUCES  
+🎓 **Computer Science Graduate** from FAST NUCES  
 💻 **Full Stack Developer** | MERN, Django, .NET | CI/CD | Cloud Deployment  
 🌱 Passionate about **AI/ML**, system design, automation, and scalable solutions  
 🚀 Currently building: **Job Portal App (MERN + TypeScript + Docker + AWS)**
